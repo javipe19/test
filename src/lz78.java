@@ -87,6 +87,7 @@ public class lz78 {
 			}
 			
 			//new comment
+			//another comment
 			return previous;
 		
 	}
